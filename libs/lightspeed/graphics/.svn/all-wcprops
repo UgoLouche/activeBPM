@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics
+END
+min_errorbar_scale.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/min_errorbar_scale.m
+END
+cut_diverging.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/cut_diverging.m
+END
+draw_ellipse_axes.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/draw_ellipse_axes.m
+END
+test_draw.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/test_draw.m
+END
+cut_quantile.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/cut_quantile.m
+END
+Contents.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/Contents.m
+END
+category_colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/category_colors.m
+END
+plot_errorbars.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/plot_errorbars.m
+END
+move_obj.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/move_obj.m
+END
+mobile_points.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/mobile_points.m
+END
+linechart.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/linechart.m
+END
+draw_ellipse.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/draw_ellipse.m
+END
+axis_pct.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/axis_pct.m
+END
+draw_line_clip.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/draw_line_clip.m
+END
+YR_colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/YR_colors.m
+END
+mobile_text.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/mobile_text.m
+END
+send_to_back.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/send_to_back.m
+END
+color_plot.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/color_plot.m
+END
+RYB_colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/RYB_colors.m
+END
+set_linespec.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/set_linespec.m
+END
+draw_circle.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/draw_circle.m
+END
+test_hhist.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/test_hhist.m
+END
+labeled_curves.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/labeled_curves.m
+END
+hhist.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/hhist.m
+END
+YlGnBu_colors.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/YlGnBu_colors.m
+END
+quantile.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/bayes/!svn/ver/259/WIP/matlab/Libraries/lightspeed/graphics/quantile.m
+END
